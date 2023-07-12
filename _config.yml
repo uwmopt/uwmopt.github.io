@@ -1,0 +1,11 @@
+title: Ivan's Page
+email: matematyka@gmx.com
+description: Optimization and Operations Research
+baseurl: ""
+url: "https://matychyn.github.io"
+github_username: matychyn
+
+markdown: kramdown
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-feed
