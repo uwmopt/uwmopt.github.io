@@ -3,6 +3,9 @@ layout: post
 title: Wyniki kolokwium 1, MFU, 1 stopnia
 ---
 
+
+
+|---
 | Indeks | Ocena |
 |:------|-----:|	
 |    173060|	5 |
