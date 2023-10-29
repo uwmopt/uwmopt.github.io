@@ -14,4 +14,4 @@ title: Wyniki kolokwium 1, MFU, 1 stopnia
 |    170223 | |  3 |
 |    170224 | |  3.5 |
 |====
-
+{:.inner-borders}
