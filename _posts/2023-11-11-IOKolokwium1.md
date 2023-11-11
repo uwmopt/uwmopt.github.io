@@ -3,7 +3,7 @@ layout: post
 title: Wyniki kolokwium 1, Informatyka ogólna
 ---
 
-Grupa 1
+**Grupa 1**
 
 |===
 | Indeks &nbsp; &nbsp; &nbsp; &nbsp;| Ocena |
@@ -30,7 +30,7 @@ Grupa 1
 | 166280 |	4.5 |
 |====
 
-Grupa 2
+**Grupa 2**
 
 |===
 | Indeks &nbsp; &nbsp; &nbsp; &nbsp;| Ocena |
@@ -57,7 +57,7 @@ Grupa 2
 | 166301 | 	5 |
 |====
 	
-Grupa 3
+**Grupa 3**
 
 |===
 | Indeks &nbsp; &nbsp; &nbsp; &nbsp;| Ocena |
@@ -75,7 +75,7 @@ Grupa 3
 | 166324	 | 4.5 |
 | 162420	 | 3   |
 | 166327	 | 5   |
-| 154733	 |     |
+| 154733	 | -   |
 | 166332	 | 4   |
 | 166333	 | 3.5 |
 | 166334	 | 5   |
