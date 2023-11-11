@@ -4,7 +4,6 @@ title: Wyniki kolokwium 1, Informatyka ogólna
 ---
 
 **Grupa 1**
-
 |===
 | Indeks &nbsp; &nbsp; &nbsp; &nbsp;| Ocena |
 |:------|-----:|	
@@ -31,8 +30,6 @@ title: Wyniki kolokwium 1, Informatyka ogólna
 |====
 
 **Grupa 2**
-
-
 |===
 | Indeks &nbsp; &nbsp; &nbsp; &nbsp;| Ocena |
 |:------|-----:|
@@ -59,8 +56,6 @@ title: Wyniki kolokwium 1, Informatyka ogólna
 |====
 	
 **Grupa 3**
-
-
 |===
 | Indeks &nbsp; &nbsp; &nbsp; &nbsp;| Ocena |
 |:------|-----:|
