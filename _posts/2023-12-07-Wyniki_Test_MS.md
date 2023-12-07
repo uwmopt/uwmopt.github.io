@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Test online z badań operacyjnych, Matematyka stosowana, studia II stopnia 
+title: Wyniki testu online z badań operacyjnych, Matematyka stosowana, studia II stopnia 
 ---
 
 |======
