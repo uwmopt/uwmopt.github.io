@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wyniki kolokwium 1, Informatyka ogólna
+title: Wyniki kolokwium 2, Informatyka ogólna
 ---
 
 **Grupa 1**
