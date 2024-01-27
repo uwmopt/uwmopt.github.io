@@ -36,7 +36,7 @@ title: Wstępne oceny końcowe, Informatyka ogólna
 | Indeks &nbsp; &nbsp; &nbsp; &nbsp;| Ocena |
 |:------|-----:|
 | 164933 | 5	|
-| 166254 | 3	|
+| 166254 | 3,5	|
 | 166259 | 4,5    |	
 | 166271 | 5    |	
 | 166275 | 5    |	
