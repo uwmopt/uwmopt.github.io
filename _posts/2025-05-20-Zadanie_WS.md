@@ -3,6 +3,8 @@ layout: post
 title: Wyklad specjalizujący: zadanie z tematu "Uczenie maszynowe w Data Science"
 ---
 
+# Wyklad specjalizujący: zadanie z tematu "Uczenie maszynowe w Data Science"
+
 Napisać skrypt w języku Python lub R, w którym:
 1. Wczytać zestaw danych, który odpowiada ostatniej cyfrze z numeru albumu.
 2. Wyznaczyć cechę decyzyjną i cechy objaśniające.
