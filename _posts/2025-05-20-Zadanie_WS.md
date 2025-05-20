@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Wyklad specjalizujący: zadanie
+title: Wykład specjalizujący: zadanie
 ---
+
 # Wyklad specjalizujący: zadanie z tematu "Uczenie maszynowe w Data Science"
 
 Napisać skrypt w języku Python lub R, w którym:
