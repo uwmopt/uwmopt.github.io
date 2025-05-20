@@ -3,6 +3,7 @@ layout: post
 title: Wyklad specjalizujący: zadanie z tematu "Uczenie maszynowe w Data Science"
 ---
 
+[expand]
 # Wyklad specjalizujący: zadanie z tematu "Uczenie maszynowe w Data Science"
 
 Napisać skrypt w języku Python lub R, w którym:
@@ -34,3 +35,4 @@ Napisać skrypt w języku Python lub R, w którym:
 8. [Banknote authentication](http://archive.ics.uci.edu/ml/datasets/banknote+authentication)
 9. [Leaf](http://archive.ics.uci.edu/ml/datasets/Leaf)
 
+[/expand]
