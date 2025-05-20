@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wyklad specjalizujący: zadanie z tematu "Uczenie maszynowe w Data Science"
+title: Wyklad specjalizujący: zadanie
 ---
 # Wyklad specjalizujący: zadanie z tematu "Uczenie maszynowe w Data Science"
 
