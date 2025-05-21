@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Wykład specjalizujący - zadanie
+title: Wykład specjalizujący - zadanie z tematu "Uczenie maszynowe w Data Science"
 ---
-
-# Wyklad specjalizujący: zadanie z tematu "Uczenie maszynowe w Data Science"
 
 Napisać skrypt w języku Python lub R, w którym:
 1. Wczytać zestaw danych, który odpowiada ostatniej cyfrze z numeru albumu.
 2. Wyznaczyć cechę decyzyjną i cechy objaśniające.
-3. Stworzyć klasyfikator używający jednego z algorytmów: 
+3. Wykonac wstepne przetwarzanie danych.
+4. Stworzyć klasyfikator używający jednego z algorytmów: 
     - KNN
     - Regresja logistyczna
     - Regresja liniowa
@@ -16,9 +15,9 @@ Napisać skrypt w języku Python lub R, w którym:
     - Drzewo losowe
     - Maszyna wektorów nośnych
     - Sieć neuronowa
-4. Wykonać klasyfikację.
-5. Oszacować miary oceny klasyfikacji: Accuracy, Recall (Sensitivity), Specificity, false positive rate FPR, false discovery rate FDR, precyzję pozytywną, precyzję negatywną, (ewentualnie) krzywa ROC i AUC.
-6. Napisać sprawozdanie i wysłać pod adres matematyka@gmx.com
+5. Wykonać klasyfikację.
+6. Oszacować miary oceny klasyfikacji: Accuracy, Recall (Sensitivity), Specificity, false positive rate FPR, false discovery rate FDR, precyzję pozytywną, precyzję negatywną, (ewentualnie) krzywa ROC i AUC.
+7. Napisać sprawozdanie i wysłać pod adres matematyka@gmx.com
 
 ##  Zestawy danych (numer wersji = ostatnia cyfra z numeru albumu): 
 
