@@ -23,13 +23,22 @@ Napisać skrypt w języku Python lub R, w którym:
 
 
 - 1\. [Abalone](http://archive.ics.uci.edu/ml/datasets/Abalone)  
+
 - 2\. [Glass Identification](http://archive.ics.uci.edu/ml/datasets/Glass+Identification)
+
 - 3\. [Letter Recognition](http://archive.ics.uci.edu/ml/datasets/Letter+Recognition)
+
 - 4\. [Wine](http://archive.ics.uci.edu/ml/datasets/Wine)
+
 - 5\. [Parkinsons](http://archive.ics.uci.edu/ml/datasets/Parkinsons)
+
 - 6\. [Wine Quality](http://archive.ics.uci.edu/ml/datasets/Wine+Quality)
+
 - 7\. [ILPD (Indian Liver Patient Dataset)](http://archive.ics.uci.edu/ml/datasets/ILPD+%28Indian+Liver+Patient+Dataset%29)
+
 - 8\. [Seeds](http://archive.ics.uci.edu/ml/datasets/seeds)
+
 - 9\. [Banknote authentication](http://archive.ics.uci.edu/ml/datasets/banknote+authentication)
+
 - 0\. [Leaf](http://archive.ics.uci.edu/ml/datasets/Leaf)
 
