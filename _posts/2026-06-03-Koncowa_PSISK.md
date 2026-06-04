@@ -34,5 +34,5 @@ title: Wstępna ocena końcowa z Metod programowania matematycznego, PSiSK, stud
 | 169368 | - |
 | 168061 | - |
 | 169514 | 4.5 |
-| 169394 | 3 |
+| 169394 | 4 |
 | 169402 | 4.5 |
